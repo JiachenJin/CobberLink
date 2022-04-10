@@ -16,7 +16,7 @@ Cobberlink.xyz
 # Project Purpose 
 The purpose of this project is to help Migrant teens who are trying to assimilate into Melbornian culture in hopes of decreasing their isolation from society. The hope is that they can find friends through learning about the slang, culture, sites, find activities, cultural festivals, and diasporic communities if they miss home. The main purpose is to decrease isolation for Migrant teens.
 
-Iteration 1 is mostly informational, and the only true use of a "database" that can encourage users to come back is the ability to look for professional help agencies that help them with their social anxiety or depression. The visualisation includes information such as address, name of agency, phone number, postcode, and language supported.
+Iteration 1 is mostly informational, and the only true use of a "database" that can encourage users to come back is the ability to look for professional help agencies that help them with their social anxiety or depression. The visualisation includes information such as name of agency, phone number, postcode, and language supported.
 
 # Pages supported for Iteration 1:
 - Home Page
@@ -25,6 +25,7 @@ Iteration 1 is mostly informational, and the only true use of a "database" that 
 - Learn the Culture
 - Learn the Sites
 - Let Us Help
+- Agencies
 - Quiz 1 - Slang
 - Quiz 2 - Culture
 - Quiz 3 - Sites
