@@ -2,10 +2,10 @@
 Team Name: Vocalouder (TP31)
 
 Team Members: 
-Jin Jiachen
-Huang Chyi Yenn
-Zhang Haoyu
-Chen Zehua
+- Jin Jiachen
+- Huang Chyi Yenn
+- Zhang Haoyu
+- Chen Zehua
 
 # Project Name
 Cobberlink.xyz 
