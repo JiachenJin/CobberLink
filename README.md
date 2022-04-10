@@ -1,7 +1,14 @@
 # CobberLink
+Team Name: Vocalouder (TP31)
+
+Team Members: 
+Jin Jiachen
+Huang Chyi Yenn
+Zhang Haoyu
+Chen Zehua
 
 # Project Name
-Cobber Link 
+Cobberlink.xyz 
 # Project Description
 
 This is the Iteration 1 files for Cobberlink.xyz, a project for FIT5120 for Semester 1 of the year 2022. The group members are: Jin Jiachen, Huang Chyi Yenn, Zhang Haoyu, Chen Zehua. The team number is 31, the team name is Vocalouder.
