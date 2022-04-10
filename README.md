@@ -1,6 +1,5 @@
 # CobberLink
 Team Name: Vocalouder (TP31)
-
 Team Members: 
 - Jin Jiachen
 - Huang Chyi Yenn
